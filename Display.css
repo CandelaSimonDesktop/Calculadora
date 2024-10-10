@@ -1,0 +1,14 @@
+/* Display.css */
+
+.display {
+    background-color: #e5009d;
+    color: #ffbae9;
+    font-size: 3em;
+    text-align: right;
+    padding: 15px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  

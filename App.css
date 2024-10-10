@@ -1,0 +1,13 @@
+/* App.css */
+
+.calculator {
+  width: 110%;
+  max-width: 350px;
+  margin: 50px auto;
+  border: 3px solid white;
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+}
